@@ -4,7 +4,7 @@ If you use Iterative Alignment Theory (IAT) or any of its applications in your w
 
 ## APA Format
 
-Fitzgerald, B. P. (2025). Iterative Alignment Theory: A New Paradigm for AI-Human Collaboration. GitHub. https://github.com/[your-username]/iterative-alignment-theory
+Fitzgerald, B. P. (2025). Iterative Alignment Theory: A New Paradigm for AI-Human Collaboration. GitHub. https://github.com/boneylizard/Iterative-Alignment-Theory-IAT-
 
 ## BibTeX Format
 
